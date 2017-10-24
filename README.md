@@ -23,7 +23,7 @@ Setting up the Amazon Alexa Application
 
 ![alt text](https://github.com/prav10194/alexa-integration-with-watson/blob/master/screenshots/slots.png "Watson")
 
-![alt text](https://github.com/prav10194/alexa-integration-with-watson/blob/master/screenshots/sample-utterances.png "Watson")
+![alt text](https://github.com/prav10194/alexa-integration-with-watson/blob/master/screenshots/sample-utterances-updated.png "Watson")
 
 7. Go to Next and enter the endpoint details. For domain address you need to look at ngrok setup explained below in README.md. 
 
